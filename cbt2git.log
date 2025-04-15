@@ -1,154 +1,154 @@
-2025-04-13 23:12:13.698579 - Received CBT.V508.FILE826.PDS from FILE826.XMI 
-2025-04-13 23:12:13.700201 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$$$#DATE
-2025-04-13 23:12:13.700308 - Found $CAUTION.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$CAUTION
-2025-04-13 23:12:13.700373 - Found $CNCLPGH.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$CNCLPGH
-2025-04-13 23:12:13.700434 - Found $DESCR.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$DESCR
-2025-04-13 23:12:13.700497 - Found $DISCLAM.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$DISCLAM
-2025-04-13 23:12:13.700556 - Found $SUBCOMM.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$SUBCOMM
-2025-04-13 23:12:13.700611 - Found $WHACKIT.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$WHACKIT
-2025-04-13 23:12:13.700678 - Found #CNCNPG#.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/#CNCNPG#
-2025-04-13 23:12:13.700744 - Found @FILE826.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/@FILE826
-2025-04-13 23:12:13.700909 - Found CNCLPG.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG
-2025-04-13 23:12:13.700971 - Found CNCLPG$.jcl (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG$
-2025-04-13 23:12:13.701040 - Found CNCLPG$$.jcl (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG$$
-2025-04-13 23:12:13.701137 - Found CNCLPG10.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG10
-2025-04-13 23:12:13.701247 - Found CNCLPG11.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG11
-2025-04-13 23:12:13.701361 - Found CNCLPG20.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG20
-2025-04-13 23:12:13.701517 - Found CNCLPG27.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG27
-2025-04-13 23:12:13.701649 - Found CNCLPG28.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG28
-2025-04-13 23:12:13.701788 - Found CNCLP210.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLP210
-2025-04-13 23:12:13.702210 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE826.PDS, moved to PDS/LOADLIB.xmi
-2025-04-13 23:12:13.875275 - Received IBMUSER.LOAD from LOADLIB.xmi 
-2025-04-13 23:12:13.878126 - Found $$$VER.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/$$$VER
-2025-04-13 23:12:13.878194 - Found alias # to AUCMD in IBMUSER.LOAD, moved to PDS/#
-2025-04-13 23:12:13.878261 - Found ADIS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ADIS
-2025-04-13 23:12:13.878327 - Found ALLIDS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ALLIDS
-2025-04-13 23:12:13.878385 - Found ALPL.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ALPL
-2025-04-13 23:12:13.878449 - Found ASUB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ASUB
-2025-04-13 23:12:13.878514 - Found AUCMD.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/AUCMD
-2025-04-13 23:12:13.878582 - Found AUPGM.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/AUPGM
-2025-04-13 23:12:13.878643 - Found BUFRSIZE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/BUFRSIZE
-2025-04-13 23:12:13.878706 - Found BYE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/BYE
-2025-04-13 23:12:13.878763 - Found CHNLEN.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CHNLEN
-2025-04-13 23:12:13.878819 - Found CINMX.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CINMX
-2025-04-13 23:12:13.878920 - Found CNCLPG.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CNCLPG
-2025-04-13 23:12:13.878993 - Found CNCLPGA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CNCLPGA
-2025-04-13 23:12:13.879059 - Found CNCLPG10.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CNCLPG10
-2025-04-13 23:12:13.879120 - Found CNCLPG11.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CNCLPG11
-2025-04-13 23:12:13.879186 - Found CNCLPG20.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CNCLPG20
-2025-04-13 23:12:13.879248 - Found CSCF.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CSCF
-2025-04-13 23:12:13.879336 - Found DACEE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DACEE
-2025-04-13 23:12:13.879397 - Found DAPF.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DAPF
-2025-04-13 23:12:13.879455 - Found DLINK.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DLINK
-2025-04-13 23:12:13.879509 - Found alias DSAUT to RACROUT in IBMUSER.LOAD, moved to PDS/DSAUT
-2025-04-13 23:12:13.879573 - Found DTEST.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DTEST
-2025-04-13 23:12:13.879634 - Found DUMPASSB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DUMPASSB
-2025-04-13 23:12:13.879692 - Found DUMPTSB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DUMPTSB
-2025-04-13 23:12:13.879749 - Found DUMPTSVT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DUMPTSVT
-2025-04-13 23:12:13.879806 - Found DUSER.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DUSER
-2025-04-13 23:12:13.879884 - Found DVAT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DVAT
-2025-04-13 23:12:13.879947 - Found EESCB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/EESCB
-2025-04-13 23:12:13.880008 - Found ENGTRANS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ENGTRANS
-2025-04-13 23:12:13.880057 - Found alias FINDCMD to LOCATE in IBMUSER.LOAD, moved to PDS/FINDCMD
-2025-04-13 23:12:13.880089 - Found alias FINDPRG to LOCATE in IBMUSER.LOAD, moved to PDS/FINDPRG
-2025-04-13 23:12:13.880148 - Found FPASS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/FPASS
-2025-04-13 23:12:13.880209 - Found HIBFREXT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/HIBFREXT
-2025-04-13 23:12:13.880278 - Found IEBTSUB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/IEBTSUB
-2025-04-13 23:12:13.880328 - Found alias IKJEFTAP to IKJTABLS in IBMUSER.LOAD, moved to PDS/IKJEFTAP
-2025-04-13 23:12:13.880359 - Found alias IKJEFTE2 to IKJTABLS in IBMUSER.LOAD, moved to PDS/IKJEFTE2
-2025-04-13 23:12:13.880388 - Found alias IKJEFTE8 to IKJTABLS in IBMUSER.LOAD, moved to PDS/IKJEFTE8
-2025-04-13 23:12:13.880417 - Found alias IKJEFTNS to IKJTABLS in IBMUSER.LOAD, moved to PDS/IKJEFTNS
-2025-04-13 23:12:13.880478 - Found IKJTABLS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/IKJTABLS
-2025-04-13 23:12:13.880556 - Found IKJTSUB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/IKJTSUB
-2025-04-13 23:12:13.880627 - Found INMXD.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/INMXD
-2025-04-13 23:12:13.880675 - Found alias KKJEFTAP to KKJTABLS in IBMUSER.LOAD, moved to PDS/KKJEFTAP
-2025-04-13 23:12:13.880707 - Found alias KKJEFTE2 to KKJTABLS in IBMUSER.LOAD, moved to PDS/KKJEFTE2
-2025-04-13 23:12:13.880736 - Found alias KKJEFTE8 to KKJTABLS in IBMUSER.LOAD, moved to PDS/KKJEFTE8
-2025-04-13 23:12:13.880769 - Found alias KKJEFTNS to KKJTABLS in IBMUSER.LOAD, moved to PDS/KKJEFTNS
-2025-04-13 23:12:13.880833 - Found KKJTABLS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/KKJTABLS
-2025-04-13 23:12:13.880897 - Found KMBAPFLB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/KMBAPFLB
-2025-04-13 23:12:13.880968 - Found LLWA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LLWA
-2025-04-13 23:12:13.881036 - Found LOADTEST.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOADTEST
-2025-04-13 23:12:13.881084 - Found alias LOADTN to LOADTEST in IBMUSER.LOAD, moved to PDS/LOADTN
-2025-04-13 23:12:13.881140 - Found LOBFREXT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOBFREXT
-2025-04-13 23:12:13.881203 - Found LOCATE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOCATE
-2025-04-13 23:12:13.881262 - Found LOGOPTS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOGOPTS
-2025-04-13 23:12:13.881317 - Found LOKSES.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOKSES
-2025-04-13 23:12:13.881434 - Found LOOK.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOOK
-2025-04-13 23:12:13.881511 - Found LPALST.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LPALST
-2025-04-13 23:12:13.881584 - Found LSLT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LSLT
-2025-04-13 23:12:13.881652 - Found LWATEDIT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LWATEDIT
-2025-04-13 23:12:13.881722 - Found LWATMGR.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LWATMGR
-2025-04-13 23:12:13.881781 - Found MEMZAP.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/MEMZAP
-2025-04-13 23:12:13.881856 - Found NOLOGOF.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/NOLOGOF
-2025-04-13 23:12:13.881918 - Found ONLCLEAR.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ONLCLEAR
-2025-04-13 23:12:13.881973 - Found ONLCLIP.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ONLCLIP
-2025-04-13 23:12:13.882037 - Found PDSLOAD.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/PDSLOAD
-2025-04-13 23:12:13.882090 - Found alias PDSLOADW to PDSLOAD in IBMUSER.LOAD, moved to PDS/PDSLOADW
-2025-04-13 23:12:13.882163 - Found PRFBIGA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/PRFBIGA
-2025-04-13 23:12:13.882223 - Found PRFSMLA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/PRFSMLA
-2025-04-13 23:12:13.882281 - Found RACROUT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RACROUT
-2025-04-13 23:12:13.882339 - Found RDHAPSVC.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RDHAPSVC
-2025-04-13 23:12:13.882405 - Found RDHINSTL.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RDHINSTL
-2025-04-13 23:12:13.882463 - Found RECONLIM.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RECONLIM
-2025-04-13 23:12:13.882522 - Found RELOGON.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RELOGON
-2025-04-13 23:12:13.882590 - Found RLOAD.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RLOAD
-2025-04-13 23:12:13.882656 - Found RLOADA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RLOADA
-2025-04-13 23:12:13.882712 - Found SCRSIZE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SCRSIZE
-2025-04-13 23:12:13.882769 - Found SETPW2.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SETPW2
-2025-04-13 23:12:13.882835 - Found SHOWRLGB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SHOWRLGB
-2025-04-13 23:12:13.882891 - Found SHOWSS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SHOWSS
-2025-04-13 23:12:13.882961 - Found SHOWTCAS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SHOWTCAS
-2025-04-13 23:12:13.883025 - Found SHOWTPVT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SHOWTPVT
-2025-04-13 23:12:13.883089 - Found SHOWTSB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SHOWTSB
-2025-04-13 23:12:13.883167 - Found STEPLIB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/STEPLIB
-2025-04-13 23:12:13.883229 - Found TERMSIZE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TERMSIZE
-2025-04-13 23:12:13.883291 - Found TOKGRUP.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TOKGRUP
-2025-04-13 23:12:13.883347 - Found TOKUSER.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TOKUSER
-2025-04-13 23:12:13.883402 - Found TRMSZRPT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TRMSZRPT
-2025-04-13 23:12:13.883460 - Found TSOFIND.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TSOFIND
-2025-04-13 23:12:13.883527 - Found TSUB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TSUB
-2025-04-13 23:12:13.883594 - Found TSUINFO.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TSUINFO
-2025-04-13 23:12:13.883660 - Found TSVTTMO.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TSVTTMO
-2025-04-13 23:12:13.883717 - Found TSVT8.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TSVT8
-2025-04-13 23:12:13.883776 - Found UACEE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UACEE
-2025-04-13 23:12:13.883838 - Found UADLIST.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UADLIST
-2025-04-13 23:12:13.883910 - Found UCB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCB
-2025-04-13 23:12:13.883977 - Found UCBDASD.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBDASD
-2025-04-13 23:12:13.884034 - Found UCBPRIV.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBPRIV
-2025-04-13 23:12:13.884090 - Found UCBPUBL.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBPUBL
-2025-04-13 23:12:13.884148 - Found UCBSTOR.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBSTOR
-2025-04-13 23:12:13.884218 - Found UCBTAPE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBTAPE
-2025-04-13 23:12:13.884279 - Found UCBTYPE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBTYPE
-2025-04-13 23:12:13.884336 - Found UGRP.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UGRP
-2025-04-13 23:12:13.884392 - Found UKEYCSA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UKEYCSA
-2025-04-13 23:12:13.884450 - Found ULWA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ULWA
-2025-04-13 23:12:13.884507 - Found UNAME.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UNAME
-2025-04-13 23:12:13.884563 - Found UPRC.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UPRC
-2025-04-13 23:12:13.884637 - Found USAT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USAT
-2025-04-13 23:12:13.884697 - Found USERMAX.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USERMAX
-2025-04-13 23:12:13.884756 - Found USIT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USIT
-2025-04-13 23:12:13.884817 - Found USOT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USOT
-2025-04-13 23:12:13.884874 - Found USPT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USPT
-2025-04-13 23:12:13.884928 - Found USTT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USTT
-2025-04-13 23:12:13.884986 - Found USUR.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USUR
-2025-04-13 23:12:13.885045 - Found USUT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USUT
-2025-04-13 23:12:13.885100 - Found USVT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USVT
-2025-04-13 23:12:13.885158 - Found USWT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USWT
-2025-04-13 23:12:13.885215 - Found USXT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USXT
-2025-04-13 23:12:13.885270 - Found USYT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USYT
-2025-04-13 23:12:13.885327 - Found USZT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USZT
-2025-04-13 23:12:13.885387 - Found UTKGP.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UTKGP
-2025-04-13 23:12:13.885445 - Found UTKID.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UTKID
-2025-04-13 23:12:13.885503 - Found UTSB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UTSB
-2025-04-13 23:12:13.885568 - Found WAITT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/WAITT
-2025-04-13 23:12:13.885645 - Found XOR.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/XOR
-2025-04-13 23:12:13.885707 - Found ZAPLWA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ZAPLWA
-2025-04-13 23:12:13.887391 - Found TSO$.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/TSO$
-2025-04-13 23:12:13.887461 - Found TSOB.rexx (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/TSOB
-2025-04-13 23:12:13.887519 - Found TSOE.rexx (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/TSOE
-2025-04-13 23:12:13.887581 - Found TSOR.rexx (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/TSOR
-2025-04-13 23:12:13.887649 - Found TSOV.rexx (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/TSOV
-2025-04-13 23:12:13.887717 - Found WAITT.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/WAITT
-2025-04-13 23:12:13.887774 - Found WAITT$.jcl (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/WAITT$
-2025-04-13 23:12:13.887830 - Found WAITT@.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/WAITT@
+2025-04-15 05:54:11.271543 - Received CBT.V508.FILE826.PDS from FILE826.XMI 
+2025-04-15 05:54:11.273236 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:54:11.273637 - Found $CAUTION.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$CAUTION
+2025-04-15 05:54:11.273843 - Found $CNCLPGH.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$CNCLPGH
+2025-04-15 05:54:11.274200 - Found $DESCR.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$DESCR
+2025-04-15 05:54:11.274508 - Found $DISCLAM.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$DISCLAM
+2025-04-15 05:54:11.274673 - Found $SUBCOMM.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$SUBCOMM
+2025-04-15 05:54:11.274829 - Found $WHACKIT.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/$WHACKIT
+2025-04-15 05:54:11.275207 - Found #CNCNPG#.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/#CNCNPG#
+2025-04-15 05:54:11.275267 - Found @FILE826.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/@FILE826
+2025-04-15 05:54:11.276092 - Found CNCLPG.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG
+2025-04-15 05:54:11.276287 - Found CNCLPG$.jcl (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG$
+2025-04-15 05:54:11.276437 - Found CNCLPG$$.jcl (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG$$
+2025-04-15 05:54:11.277065 - Found CNCLPG10.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG10
+2025-04-15 05:54:11.277751 - Found CNCLPG11.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG11
+2025-04-15 05:54:11.278481 - Found CNCLPG20.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG20
+2025-04-15 05:54:11.279184 - Found CNCLPG27.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG27
+2025-04-15 05:54:11.279892 - Found CNCLPG28.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLPG28
+2025-04-15 05:54:11.280817 - Found CNCLP210.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/CNCLP210
+2025-04-15 05:54:11.282337 - Found LOADLIB.xmi (application/xmit) in CBT.V508.FILE826.PDS, moved to PDS/LOADLIB.xmi
+2025-04-15 05:54:11.459111 - Received IBMUSER.LOAD from LOADLIB.xmi 
+2025-04-15 05:54:11.462575 - Found $$$VER.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/$$$VER
+2025-04-15 05:54:11.462776 - Found alias # to AUCMD in IBMUSER.LOAD, moved to PDS/#
+2025-04-15 05:54:11.463324 - Found ADIS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ADIS
+2025-04-15 05:54:11.463541 - Found ALLIDS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ALLIDS
+2025-04-15 05:54:11.463723 - Found ALPL.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ALPL
+2025-04-15 05:54:11.463937 - Found ASUB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ASUB
+2025-04-15 05:54:11.464136 - Found AUCMD.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/AUCMD
+2025-04-15 05:54:11.464367 - Found AUPGM.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/AUPGM
+2025-04-15 05:54:11.464564 - Found BUFRSIZE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/BUFRSIZE
+2025-04-15 05:54:11.464755 - Found BYE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/BYE
+2025-04-15 05:54:11.464924 - Found CHNLEN.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CHNLEN
+2025-04-15 05:54:11.465081 - Found CINMX.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CINMX
+2025-04-15 05:54:11.465279 - Found CNCLPG.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CNCLPG
+2025-04-15 05:54:11.465536 - Found CNCLPGA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CNCLPGA
+2025-04-15 05:54:11.465882 - Found CNCLPG10.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CNCLPG10
+2025-04-15 05:54:11.466181 - Found CNCLPG11.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CNCLPG11
+2025-04-15 05:54:11.466472 - Found CNCLPG20.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CNCLPG20
+2025-04-15 05:54:11.466761 - Found CSCF.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/CSCF
+2025-04-15 05:54:11.467079 - Found DACEE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DACEE
+2025-04-15 05:54:11.467226 - Found DAPF.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DAPF
+2025-04-15 05:54:11.467379 - Found DLINK.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DLINK
+2025-04-15 05:54:11.467492 - Found alias DSAUT to RACROUT in IBMUSER.LOAD, moved to PDS/DSAUT
+2025-04-15 05:54:11.467800 - Found DTEST.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DTEST
+2025-04-15 05:54:11.468112 - Found DUMPASSB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DUMPASSB
+2025-04-15 05:54:11.468431 - Found DUMPTSB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DUMPTSB
+2025-04-15 05:54:11.468761 - Found DUMPTSVT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DUMPTSVT
+2025-04-15 05:54:11.469074 - Found DUSER.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DUSER
+2025-04-15 05:54:11.469389 - Found DVAT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/DVAT
+2025-04-15 05:54:11.469714 - Found EESCB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/EESCB
+2025-04-15 05:54:11.470033 - Found ENGTRANS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ENGTRANS
+2025-04-15 05:54:11.470165 - Found alias FINDCMD to LOCATE in IBMUSER.LOAD, moved to PDS/FINDCMD
+2025-04-15 05:54:11.470250 - Found alias FINDPRG to LOCATE in IBMUSER.LOAD, moved to PDS/FINDPRG
+2025-04-15 05:54:11.470556 - Found FPASS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/FPASS
+2025-04-15 05:54:11.470863 - Found HIBFREXT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/HIBFREXT
+2025-04-15 05:54:11.471185 - Found IEBTSUB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/IEBTSUB
+2025-04-15 05:54:11.471295 - Found alias IKJEFTAP to IKJTABLS in IBMUSER.LOAD, moved to PDS/IKJEFTAP
+2025-04-15 05:54:11.471385 - Found alias IKJEFTE2 to IKJTABLS in IBMUSER.LOAD, moved to PDS/IKJEFTE2
+2025-04-15 05:54:11.471464 - Found alias IKJEFTE8 to IKJTABLS in IBMUSER.LOAD, moved to PDS/IKJEFTE8
+2025-04-15 05:54:11.471537 - Found alias IKJEFTNS to IKJTABLS in IBMUSER.LOAD, moved to PDS/IKJEFTNS
+2025-04-15 05:54:11.471863 - Found IKJTABLS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/IKJTABLS
+2025-04-15 05:54:11.472088 - Found IKJTSUB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/IKJTSUB
+2025-04-15 05:54:11.472266 - Found INMXD.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/INMXD
+2025-04-15 05:54:11.472377 - Found alias KKJEFTAP to KKJTABLS in IBMUSER.LOAD, moved to PDS/KKJEFTAP
+2025-04-15 05:54:11.472455 - Found alias KKJEFTE2 to KKJTABLS in IBMUSER.LOAD, moved to PDS/KKJEFTE2
+2025-04-15 05:54:11.472528 - Found alias KKJEFTE8 to KKJTABLS in IBMUSER.LOAD, moved to PDS/KKJEFTE8
+2025-04-15 05:54:11.472599 - Found alias KKJEFTNS to KKJTABLS in IBMUSER.LOAD, moved to PDS/KKJEFTNS
+2025-04-15 05:54:11.472805 - Found KKJTABLS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/KKJTABLS
+2025-04-15 05:54:11.472987 - Found KMBAPFLB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/KMBAPFLB
+2025-04-15 05:54:11.473331 - Found LLWA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LLWA
+2025-04-15 05:54:11.473564 - Found LOADTEST.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOADTEST
+2025-04-15 05:54:11.473669 - Found alias LOADTN to LOADTEST in IBMUSER.LOAD, moved to PDS/LOADTN
+2025-04-15 05:54:11.473962 - Found LOBFREXT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOBFREXT
+2025-04-15 05:54:11.474268 - Found LOCATE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOCATE
+2025-04-15 05:54:11.474441 - Found LOGOPTS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOGOPTS
+2025-04-15 05:54:11.474611 - Found LOKSES.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOKSES
+2025-04-15 05:54:11.475179 - Found LOOK.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LOOK
+2025-04-15 05:54:11.475481 - Found LPALST.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LPALST
+2025-04-15 05:54:11.475781 - Found LSLT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LSLT
+2025-04-15 05:54:11.476096 - Found LWATEDIT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LWATEDIT
+2025-04-15 05:54:11.476637 - Found LWATMGR.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/LWATMGR
+2025-04-15 05:54:11.476940 - Found MEMZAP.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/MEMZAP
+2025-04-15 05:54:11.477247 - Found NOLOGOF.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/NOLOGOF
+2025-04-15 05:54:11.477572 - Found ONLCLEAR.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ONLCLEAR
+2025-04-15 05:54:11.477767 - Found ONLCLIP.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ONLCLIP
+2025-04-15 05:54:11.477961 - Found PDSLOAD.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/PDSLOAD
+2025-04-15 05:54:11.478059 - Found alias PDSLOADW to PDSLOAD in IBMUSER.LOAD, moved to PDS/PDSLOADW
+2025-04-15 05:54:11.478265 - Found PRFBIGA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/PRFBIGA
+2025-04-15 05:54:11.478464 - Found PRFSMLA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/PRFSMLA
+2025-04-15 05:54:11.478622 - Found RACROUT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RACROUT
+2025-04-15 05:54:11.478786 - Found RDHAPSVC.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RDHAPSVC
+2025-04-15 05:54:11.478978 - Found RDHINSTL.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RDHINSTL
+2025-04-15 05:54:11.479141 - Found RECONLIM.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RECONLIM
+2025-04-15 05:54:11.479289 - Found RELOGON.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RELOGON
+2025-04-15 05:54:11.479503 - Found RLOAD.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RLOAD
+2025-04-15 05:54:11.479698 - Found RLOADA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/RLOADA
+2025-04-15 05:54:11.479856 - Found SCRSIZE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SCRSIZE
+2025-04-15 05:54:11.480031 - Found SETPW2.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SETPW2
+2025-04-15 05:54:11.480222 - Found SHOWRLGB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SHOWRLGB
+2025-04-15 05:54:11.480405 - Found SHOWSS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SHOWSS
+2025-04-15 05:54:11.480585 - Found SHOWTCAS.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SHOWTCAS
+2025-04-15 05:54:11.480786 - Found SHOWTPVT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SHOWTPVT
+2025-04-15 05:54:11.480969 - Found SHOWTSB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/SHOWTSB
+2025-04-15 05:54:11.481296 - Found STEPLIB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/STEPLIB
+2025-04-15 05:54:11.481471 - Found TERMSIZE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TERMSIZE
+2025-04-15 05:54:11.481635 - Found TOKGRUP.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TOKGRUP
+2025-04-15 05:54:11.481921 - Found TOKUSER.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TOKUSER
+2025-04-15 05:54:11.482208 - Found TRMSZRPT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TRMSZRPT
+2025-04-15 05:54:11.482502 - Found TSOFIND.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TSOFIND
+2025-04-15 05:54:11.482745 - Found TSUB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TSUB
+2025-04-15 05:54:11.482921 - Found TSUINFO.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TSUINFO
+2025-04-15 05:54:11.483083 - Found TSVTTMO.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TSVTTMO
+2025-04-15 05:54:11.483239 - Found TSVT8.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/TSVT8
+2025-04-15 05:54:11.483406 - Found UACEE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UACEE
+2025-04-15 05:54:11.483595 - Found UADLIST.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UADLIST
+2025-04-15 05:54:11.483780 - Found UCB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCB
+2025-04-15 05:54:11.483948 - Found UCBDASD.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBDASD
+2025-04-15 05:54:11.484101 - Found UCBPRIV.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBPRIV
+2025-04-15 05:54:11.484263 - Found UCBPUBL.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBPUBL
+2025-04-15 05:54:11.484432 - Found UCBSTOR.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBSTOR
+2025-04-15 05:54:11.484596 - Found UCBTAPE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBTAPE
+2025-04-15 05:54:11.484776 - Found UCBTYPE.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UCBTYPE
+2025-04-15 05:54:11.484931 - Found UGRP.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UGRP
+2025-04-15 05:54:11.485084 - Found UKEYCSA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UKEYCSA
+2025-04-15 05:54:11.485242 - Found ULWA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ULWA
+2025-04-15 05:54:11.485401 - Found UNAME.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UNAME
+2025-04-15 05:54:11.485567 - Found UPRC.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UPRC
+2025-04-15 05:54:11.485728 - Found USAT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USAT
+2025-04-15 05:54:11.485889 - Found USERMAX.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USERMAX
+2025-04-15 05:54:11.486046 - Found USIT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USIT
+2025-04-15 05:54:11.486206 - Found USOT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USOT
+2025-04-15 05:54:11.486367 - Found USPT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USPT
+2025-04-15 05:54:11.486652 - Found USTT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USTT
+2025-04-15 05:54:11.486949 - Found USUR.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USUR
+2025-04-15 05:54:11.487247 - Found USUT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USUT
+2025-04-15 05:54:11.487558 - Found USVT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USVT
+2025-04-15 05:54:11.487917 - Found USWT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USWT
+2025-04-15 05:54:11.488269 - Found USXT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USXT
+2025-04-15 05:54:11.488620 - Found USYT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USYT
+2025-04-15 05:54:11.488946 - Found USZT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/USZT
+2025-04-15 05:54:11.489265 - Found UTKGP.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UTKGP
+2025-04-15 05:54:11.489595 - Found UTKID.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UTKID
+2025-04-15 05:54:11.489941 - Found UTSB.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/UTSB
+2025-04-15 05:54:11.490280 - Found WAITT.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/WAITT
+2025-04-15 05:54:11.490593 - Found XOR.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/XOR
+2025-04-15 05:54:11.490919 - Found ZAPLWA.bin (application/octet-stream) in IBMUSER.LOAD, moved to LOADLIB/ZAPLWA
+2025-04-15 05:54:11.493059 - Found TSO$.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/TSO$
+2025-04-15 05:54:11.493386 - Found TSOB.rexx (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/TSOB
+2025-04-15 05:54:11.493700 - Found TSOE.rexx (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/TSOE
+2025-04-15 05:54:11.494022 - Found TSOR.rexx (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/TSOR
+2025-04-15 05:54:11.494373 - Found TSOV.rexx (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/TSOV
+2025-04-15 05:54:11.494628 - Found WAITT.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/WAITT
+2025-04-15 05:54:11.494811 - Found WAITT$.jcl (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/WAITT$
+2025-04-15 05:54:11.495004 - Found WAITT@.txt (text/plain) in CBT.V508.FILE826.PDS, moved to PDS/WAITT@
